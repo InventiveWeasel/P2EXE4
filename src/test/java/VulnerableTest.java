@@ -1,4 +1,4 @@
-package test;
+package test.java;
 
 import static org.junit.Assert.*;
 
@@ -9,7 +9,7 @@ import java.util.NoSuchElementException;
 import org.junit.Before;
 import org.junit.Test;
 
-import exe2.VulnerableClass;
+import main.java.VulnerableClass;
 
 public class VulnerableTest {
 	VulnerableClass vul;
